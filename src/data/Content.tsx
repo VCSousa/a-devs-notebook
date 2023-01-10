@@ -732,6 +732,18 @@ export const Content: ContentItem[] = [
             },
         ]
     },
+	{
+        title: 'Azure Cloud',
+        link: 'azure-cloud',
+        icon: '🌍',
+        subContent: [
+            {
+                title: 'Azure Backup',
+                link: 'azure-backup',
+                icon: '🌍',
+            },
+        ]
+    },
     {
         title: 'Misc',
         link: 'misc',
